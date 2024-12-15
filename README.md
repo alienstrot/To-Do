@@ -1,0 +1,1 @@
+The To-Do List Application is a simple yet functional task management web app built using HTML, CSS, and JavaScript. This app allows users to create, manage, and delete tasks on their to-do list. The project offers a clean, interactive user interface with features like adding new tasks, marking tasks as completed, and deleting tasks.
